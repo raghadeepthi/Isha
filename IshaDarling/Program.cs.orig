@@ -1,0 +1,18 @@
+﻿using System;
+
+namespace IshaDarling
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+<<<<<<< HEAD
+            Console.WriteLine("this is second branch");
+=======
+            Console.WriteLine("this is feature branch");
+            
+>>>>>>> 44581e0... second line commented
+        }
+    }
+}

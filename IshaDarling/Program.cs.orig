@@ -10,9 +10,8 @@ namespace IshaDarling
 <<<<<<< HEAD
             Console.WriteLine("this is second branch");
 =======
-            Console.WriteLine("this is feature branch");
-            
->>>>>>> 44581e0... second line commented
+            Console.WriteLine("this is third Branch");
+>>>>>>> feature/ThirdBranch
         }
     }
 }
